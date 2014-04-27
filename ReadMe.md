@@ -20,4 +20,4 @@ The run_analysis.R R script assumes the input data has been downloaded on the lo
 
 The prerequisite for this script is that 'reshape2' package must be installed on the local R environment.
 
-The script also deletes all the data after its use, except the merged, extracted and averaged datasets.
+The script also deletes all the temporary data that is created for its use.
