@@ -20,4 +20,4 @@ run_analysis.R
 The run_analysis.R R script assumes the input data has been downloaded on the local system and placed inside UCI HAR Dataset directory inside the
 current working directory of the R system. The script automatically changes the current working directory and starts reading in the data.
 
-The prerequisite for this script is that 'reshape' package must be installed on the local R environment.
+The prerequisite for this script is that 'reshape2' package must be installed on the local R environment.
