@@ -46,3 +46,5 @@ library(reshape2)
 temp <- melt(tidyDS_MS, id = c("Subjects", "Activities"))
 tidyResult <- dcast(temp, Subjects + Activities ~ variable, mean)
 write.table(tidyResult, "tidy_avg.txt")
+rm(temp, i)
+
