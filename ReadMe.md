@@ -12,7 +12,7 @@ Contents:
 
 1. ReadMe.md :      This file.
 2. run_analysis.R : Heart of the project.
-3. CookBook.md :    Desribes all about the data, the process of cleaning and transformation and the variables of the datasets.
+3. CodeBook.md :    Desribes all about the data, the process of cleaning and transformation and the variables of the datasets.
 
 run_analysis.R
 ==============
